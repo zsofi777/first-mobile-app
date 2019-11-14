@@ -1,6 +1,6 @@
 :iphone:
 
-## ReactNative mobile app
+## React Native mobile app
 ReactNative :heavy_plus_sign: React Hooks :heavy_plus_sign: Expo :heavy_plus_sign: NodeJS
 #
 ### Installation ###
